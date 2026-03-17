@@ -82,7 +82,7 @@ Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='MENet.png' alt="MENet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MENet: Multi-modal mapping enhancement network for 3D object detection in autonomous driving)(https://ieeexplore.ieee.org/abstract/document/10510171/)
+[MENet: Multi-modal mapping enhancement network for 3D object detection in autonomous driving](https://ieeexplore.ieee.org/abstract/document/10510171/)
 
 Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
 
@@ -93,7 +93,7 @@ Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2023</div><img src='BF3D.png' alt="BF3D" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping)(https://www.sciencedirect.com/science/article/abs/pii/S0262885623002093)
+[BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping](https://www.sciencedirect.com/science/article/abs/pii/S0262885623002093)
 
 **Yijie Zhu**, Jingming Xie, Moyun Liu, Lei Yao, Youping Chen
 

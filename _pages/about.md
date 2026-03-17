@@ -42,18 +42,18 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 
 Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 
-*ICLR (CCF Class A Conference)*
+**ICLR (CCF Class A Conference)**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='AAAI 2026.png' alt="H-GAR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026, Oral</div><img src='AAAI 2026.png' alt="H-GAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [H-GAR: A Hierarchical Interaction Framework via Goal-Driven Observation-Action Refinement for Robotic Manipulation](https://arxiv.org/pdf/2511.17079)
 
 **Yijie Zhu**, Rui Shao, Ziyang Liu, Jie He, Jizhihui Liu, Jiuru Wang, Zitong Yu
 
-*AAAI Oral (CCF Class A Conference)*
+**AAAI Oral (CCF Class A Conference)**
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 
 **Yijie Zhu**, Yibo Lyu, Zitong Yu, Rui Shao, Kaiyang Zhou, Liqiang Nie
 
-*ACM MM (CCF Class A Conference)*
+**ACM MM (CCF Class A Conference)**
 </div>
 </div>
 
@@ -75,7 +75,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 
 Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
 
-*ACM MM (CCF Class A Conference)*
+**ACM MM (CCF Class A Conference)**
 </div>
 </div>
 
@@ -86,7 +86,7 @@ Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
 
 Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
 
-*TITS (CCF Class B Journal)*
+**TITS (CCF Class B Journal)**
 </div>
 </div>
 
@@ -97,12 +97,12 @@ Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhe
 
 **Yijie Zhu**, Jingming Xie, Moyun Liu, Lei Yao, Youping Chen
 
-*IVC (CCF Class C Journal)*
+**IVC (CCF Class C Journal)**
 </div>
 </div>
 
 # 📄 Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='deltavla.png' alt="deltaVLA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='detlavla.png' alt="deltaVLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [deltaVLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation](https://arxiv.org/pdf/2603.08361)

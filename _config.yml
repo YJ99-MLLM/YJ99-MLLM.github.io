@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yijie Zhu"
+title                    : "Yijie Zhu Homepage"
 description              : "Joint PhD Student at Harbin Institute of Technology and Great Bay University. Research interests include Multimodal Large Models and Vision-Language-Action."
 repository               :  "zhuyijie/zhuyijie.github.io"
 google_scholar_stats_use_cdn : true

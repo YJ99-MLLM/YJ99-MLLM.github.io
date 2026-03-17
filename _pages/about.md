@@ -128,8 +128,8 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 - <span class="edu-logo"><img src="东华大学-logo-2048px.png" alt="Donghua University"></span><span class="edu-text"><strong>Donghua University</strong>, 2017.09 - 2021.06<br>Bachelor's Degree in Mechanical Engineering</span>
 
 # 💼 Internships
-- <span class="edu-logo edu-logo--intern"><img src="images/SenseTime.avif" alt="SenseTime"></span><span class="edu-text"><em>Feb 2023 – Aug 2023</em>, <strong>Algorithm Intern</strong>, SenseTime</span>
-- <span class="edu-logo edu-logo--intern"><img src="images/Hehe.avif" alt="Shanghai Hehe Information Technology Co., Ltd."></span><span class="edu-text"><em>Jul 2022 – Sep 2023</em>, <strong>Algorithm Intern</strong>, Shanghai Hehe Information Technology Co., Ltd.</span>
+- <span class="edu-logo edu-logo--intern"><img src="商汤科技.png" alt="SenseTime"></span><span class="edu-text"><em>Feb 2023 – Aug 2023</em>, <strong>Algorithm Intern</strong>, SenseTime</span>
+- <span class="edu-logo edu-logo--intern"><img src="合合信息.png" alt="Shanghai Hehe Information Technology Co., Ltd."></span><span class="edu-text"><em>Jul 2022 – Sep 2023</em>, <strong>Algorithm Intern</strong>, Shanghai Hehe Information Technology Co., Ltd.</span>
  
 
 

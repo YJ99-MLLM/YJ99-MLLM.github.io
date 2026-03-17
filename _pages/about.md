@@ -129,7 +129,7 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 
 # 💼 Internships
 - <span class="edu-logo edu-logo--intern"><img src="images/SenseTime.avif" alt="SenseTime"></span><span class="edu-text"><em>Feb 2023 – Aug 2023</em>, <strong>Algorithm Intern</strong>, SenseTime</span>
-
+- <span class="edu-logo edu-logo--intern"><img src="images/Hehe.avif" alt="Shanghai Hehe Information Technology Co., Ltd."></span><span class="edu-text"><em>Jul 2022 – Sep 2023</em>, <strong>Algorithm Intern</strong>, Shanghai Hehe Information Technology Co., Ltd.</span>
  
 
 

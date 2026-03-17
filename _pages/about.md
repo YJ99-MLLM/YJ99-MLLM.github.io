@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Yijie Zhu (朱翌杰)**, a joint PhD student at **Harbin Institute of Technology** and **Great Bay University**. I started my doctoral study in **Fall 2024**, under the supervision of **Prof. Rui Shao** and **Prof. Zitong Yu**.
+Hi! I am **Yijie Zhu**, a joint PhD student at **Harbin Institute of Technology** and **Great Bay University**. I started my doctoral study in **Fall 2024**, under the supervision of **Prof. Rui Shao** and **Prof. Zitong Yu**.
 
 My research focuses on **Multimodal Large Models** and **Vision-Language-Action (VLA)**, with interests in multimodal reasoning, embodied intelligence, and robotic learning.
 

@@ -28,10 +28,10 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by **ICLR** 2026
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI** 2026 as **Oral**
 - *2025.07*: &nbsp;🎉🎉 Two papers accepted by **ACM MM** 2025
-- *2024.09*  &nbsp;Started my Ph.D. at Harbin Institute of Technology, Shenzhen&&Great Bay University
-- *2024.04*  &nbsp;🎉🎉 One paper accepted by **IEEE TITS**
-- *2023.09*  &nbsp;🎉🎉 One paper accepted by **IVC**
-- *2023.03*  &nbsp;Started internship at **SenseTime** as an Algorithm Intern
+- *2024.09*: &nbsp;Started my Ph.D. at Harbin Institute of Technology, Shenzhen&&Great Bay University
+- *2024.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TITS**
+- *2023.09*: &nbsp;🎉🎉 One paper accepted by **IVC**
+- *2023.03*: &nbsp;Started internship at **SenseTime** as an Algorithm Intern
 
 # 📝 Publications
 

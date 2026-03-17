@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yijie Zhu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Joint PhD Student at Harbin Institute of Technology and Great Bay University, working on Multimodal Large Models and Vision-Language-Action."
+  bio              : 
   location         : "Shenzhen, China"
-  employer         : "Harbin Institute of Technology & Great Bay University"
+  employer         : "Harbin Institute of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0GtAUPoAAAAJ&hl=id&oi=sra"
   email            : 

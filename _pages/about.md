@@ -57,7 +57,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='ACM MM 2025.png' alt="EmoSym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='ACM MM 2025.png' alt="EmoSym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EmoSym: A Symbiotic Framework for Unified Emotional Understanding and Generation via Latent Reasoning](https://dl.acm.org/doi/abs/10.1145/3746027.3754549)
@@ -68,7 +68,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='PUMA.png' alt="Puma" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='PUMA.png' alt="Puma" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Puma: Layer-pruned language model for efficient unified multimodal retrieval with modality-adaptive learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755029)
@@ -105,7 +105,7 @@ Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='detlavla.png' alt="deltaVLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[deltaVLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation](https://arxiv.org/pdf/2603.08361)
+[DeltaVLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation](https://arxiv.org/pdf/2603.08361)
 
 **Yijie Zhu**, Jie He, Rui Shao, Kaishen Yuan, Tao Tan, Xiaochen Yuan, Zitong Yu
 

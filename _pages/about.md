@@ -27,7 +27,7 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by **ICLR** 2026
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI** 2026 as **Oral**
-- *2025.07*: &nbsp;🎉🎉 One paper accepted by **ACM MM** 2025
+- *2025.07*: &nbsp;🎉🎉 Two papers accepted by **ACM MM** 2025
 - *2024.09*  &nbsp;Started my Ph.D. at Harbin Institute of Technology, Shenzhen&&Great Bay University
 - *2024.04*  &nbsp;🎉🎉 One paper accepted by **IEEE TITS**
 - *2023.09*  &nbsp;🎉🎉 One paper accepted by **IVC**
@@ -38,15 +38,15 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='ICLR 2026.png' alt="CoEmoGen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation](https://arxiv.org/pdf/2509.24850)
+[CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation](https://arxiv.org/pdf/2508.03535?)
 
 Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 
-*CVPR (CCF Class A Conference)*
+*ICLR (CCF Class A Conference)*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='AAAI 2026.png' alt="H-GAR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='AAAI 2026.png' alt="H-GAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [H-GAR: A Hierarchical Interaction Framework via Goal-Driven Observation-Action Refinement for Robotic Manipulation](https://arxiv.org/pdf/2511.17079)
@@ -56,12 +56,22 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='ACM MM 2025.png' alt="EmoSym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='ACM MM 2025.png' alt="EmoSym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EmoSym: A Symbiotic Framework for Unified Emotional Understanding and Generation via Latent Reasoning]([https://arxiv.org/abs/2505.03621](https://dl.acm.org/doi/pdf/10.1145/3746027.3754549))
+[EmoSym: A Symbiotic Framework for Unified Emotional Understanding and Generation via Latent Reasoning](https://dl.acm.org/doi/abs/10.1145/3746027.3754549)
 
 **Yijie Zhu**, Yibo Lyu, Zitong Yu, Rui Shao, Kaiyang Zhou, Liqiang Nie
+*ACM MM (CCF Class A Conference)*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='puma.png' alt="Puma" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Puma: Layer-pruned language model for efficient unified multimodal retrieval with modality-adaptive learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755029)
+
+Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
 *ACM MM (CCF Class A Conference)*
 </div>
 </div>
@@ -69,7 +79,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='MENet.png' alt="MENet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MENet: Multi-modal mapping enhancement network for 3D object detection in autonomous driving)
+[MENet: Multi-modal mapping enhancement network for 3D object detection in autonomous driving)(https://ieeexplore.ieee.org/abstract/document/10510171/)
 
 Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
 
@@ -80,7 +90,7 @@ Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2023</div><img src='BF3D.png' alt="BF3D" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping)
+[BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping)(https://www.sciencedirect.com/science/article/abs/pii/S0262885623002093)
 
 **Yijie Zhu**, Jingming Xie, Moyun Liu, Lei Yao, Youping Chen
 
@@ -89,22 +99,25 @@ Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhe
 </div>
 
 # 📄 Preprints
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='UniEmo.png' alt="UniEmo" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[UniEmo: Unifying emotional understanding and generation with learnable expert queries](https://arxiv.org/abs/2502.13624)
-
-**Yijie Zhu**, Lingsen Zhang, Zitong Yu, Rui Shao, Tao Tan, Liqiang Nie
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='deltavla.png' alt="deltaVLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [deltaVLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation](https://arxiv.org/pdf/2603.08361)
 
 **Yijie Zhu**, Jie He, Rui Shao, Kaishen Yuan, Tao Tan, Xiaochen Yuan, Zitong Yu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='UniEmo.png' alt="UniEmo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UniEmo: Unifying emotional understanding and generation with learnable expert queries](https://arxiv.org/abs/2507.23372)
+
+**Yijie Zhu**, Lingsen Zhang, Zitong Yu, Rui Shao, Tao Tan, Liqiang Nie
+
+</div>
+</div>
+
 
 

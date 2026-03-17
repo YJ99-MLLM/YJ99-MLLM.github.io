@@ -123,9 +123,9 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 </div>
 
 # 🎓 Educations
-- <span class="edu-logo"><img src="images/哈尔滨工业大学(深圳).png" alt="Harbin Institute of Technology, Shenzhen"></span><span class="edu-text"><strong>Harbin Institute of Technology, Shenzhen &amp; Great Bay University</strong>, 2024.09 - Present<br>Ph.D. Student in Computer Science and Technology </span>
-- <span class="edu-logo"><img src="images/华中科技大学.png" alt="Huazhong University of Science and Technology"></span><span class="edu-text"><strong>Huazhong University of Science and Technology</strong>, 2021.09 - 2024.06<br>Master's Degree in Mechanical Engineering</span>
-- <span class="edu-logo"><img src="images/东华大学.png" alt="Donghua University"></span><span class="edu-text"><strong>Donghua University</strong>, 2017.09 - 2021.06<br>Bachelor's Degree in Mechanical Engineering</span>
+- <span class="edu-logo"><img src="images/哈尔滨工业大学-logo-2048px中文版.png" alt="Harbin Institute of Technology, Shenzhen"></span><span class="edu-text"><strong>Harbin Institute of Technology, Shenzhen &amp; Great Bay University</strong>, 2024.09 - Present<br>Ph.D. Student in Computer Science and Technology </span>
+- <span class="edu-logo"><img src="images/华中科技大学-logo-2048px.png" alt="Huazhong University of Science and Technology"></span><span class="edu-text"><strong>Huazhong University of Science and Technology</strong>, 2021.09 - 2024.06<br>Master's Degree in Mechanical Engineering</span>
+- <span class="edu-logo"><img src="images/东华大学-logo-2048px.png" alt="Donghua University"></span><span class="edu-text"><strong>Donghua University</strong>, 2017.09 - 2021.06<br>Bachelor's Degree in Mechanical Engineering</span>
 
 # 💼 Internships
 - <span class="edu-logo edu-logo--intern"><img src="images/Tencent.avif" alt="Tencent"></span><span class="edu-text"><em>2025.10 - Present</em>, <strong>Intern</strong>, Tencent Hunyuan Multimodal Model Department, Tencent Technology (Shenzhen) Co., Ltd.</span>

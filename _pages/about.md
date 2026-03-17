@@ -132,8 +132,11 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 # 💼 Internships
 - <span class="edu-logo edu-logo--intern" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="商汤科技.png" alt="SenseTime" style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>SenseTime</strong>, <em>Feb 2023 – Aug 2023</em><br>Algorithm Intern</span>
 
-- <span class="edu-logo edu-logo--intern" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="合合信息.png" alt="Shanghai Hehe Information Technology Co., Ltd." style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Shanghai Hehe Information Technology Co., Ltd.</strong>, <em>Jul 2022 – Sep 2023</em><br>Algorithm Intern</span>
- 
+- <span class="edu-logo edu-logo--intern" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="合合信息.png" alt="Shanghai Hehe Information Technology Co., Ltd." style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Shanghai Hehe Information Technology Co., Ltd.</strong>, <em>Jul 2022 – Sep 2022</em><br>Algorithm Intern</span>
+
+# 🎖 Honors and Awards
+- Outstanding Graduate, Donghua University
+- Outstanding Graduate, Huazhong University of Science and Technology
 
 
 # 👨‍🎓 Academic Service

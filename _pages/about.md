@@ -52,6 +52,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 [H-GAR: A Hierarchical Interaction Framework via Goal-Driven Observation-Action Refinement for Robotic Manipulation](https://arxiv.org/pdf/2511.17079)
 
 **Yijie Zhu**, Rui Shao, Ziyang Liu, Jie He, Jizhihui Liu, Jiuru Wang, Zitong Yu
+
 *AAAI Oral (CCF Class A Conference)*
 </div>
 </div>
@@ -62,6 +63,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 [EmoSym: A Symbiotic Framework for Unified Emotional Understanding and Generation via Latent Reasoning](https://dl.acm.org/doi/abs/10.1145/3746027.3754549)
 
 **Yijie Zhu**, Yibo Lyu, Zitong Yu, Rui Shao, Kaiyang Zhou, Liqiang Nie
+
 *ACM MM (CCF Class A Conference)*
 </div>
 </div>
@@ -72,6 +74,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 [Puma: Layer-pruned language model for efficient unified multimodal retrieval with modality-adaptive learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755029)
 
 Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
+
 *ACM MM (CCF Class A Conference)*
 </div>
 </div>

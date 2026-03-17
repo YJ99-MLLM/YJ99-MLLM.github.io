@@ -123,15 +123,16 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 </div>
 
 # 🎓 Educations
-<span class="edu-logo"><img src="哈尔滨工业大学-logo-2048px中文版.png" alt="Harbin Institute of Technology, Shenzhen" style="width:48px; height:48px; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Harbin Institute of Technology, Shenzhen &amp; Great Bay University</strong>, 2024.09 - Present<br>Ph.D. Student in Computer Science and Technology </span>
+- <span class="edu-logo" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="哈尔滨工业大学-logo-2048px中文版.png" alt="Harbin Institute of Technology, Shenzhen" style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Harbin Institute of Technology, Shenzhen &amp; Great Bay University</strong>, <em>Sep 2024 – Present</em><br>Ph.D. Student in Computer Science and Technology</span>
 
-<span class="edu-logo"><img src="华中科技大学-logo-2048px.png" alt="Huazhong University of Science and Technology" style="width:48px; height:48px; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Huazhong University of Science and Technology</strong>, 2021.09 - 2024.06<br>Master's Degree in Mechanical Engineering</span>
+- <span class="edu-logo" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="华中科技大学-logo-2048px.png" alt="Huazhong University of Science and Technology" style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Huazhong University of Science and Technology</strong>, <em>Sep 2021 – Jun 2024</em><br>Master's Degree in Mechanical Engineering</span>
 
-<span class="edu-logo"><img src="东华大学-logo-2048px.png" alt="Donghua University" style="width:48px; height:48px; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Donghua University</strong>, 2017.09 - 2021.06<br>Bachelor's Degree in Mechanical Engineering</span>
+- <span class="edu-logo" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="东华大学-logo-2048px.png" alt="Donghua University" style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Donghua University</strong>, <em>Sep 2017 – Jun 2021</em><br>Bachelor's Degree in Mechanical Engineering</span>
 
 # 💼 Internships
-- <span class="edu-logo edu-logo--intern" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="商汤科技.png" alt="SenseTime" style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><em>Feb 2023 – Aug 2023</em>, <strong>Algorithm Intern</strong>, SenseTime</span>
-- <span class="edu-logo edu-logo--intern" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="合合信息.png" alt="Shanghai Hehe Information Technology Co., Ltd." style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><em>Jul 2022 – Sep 2023</em>, <strong>Algorithm Intern</strong>, Shanghai Hehe Information Technology Co., Ltd.</span>
+- <span class="edu-logo edu-logo--intern" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="商汤科技.png" alt="SenseTime" style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>SenseTime</strong>, <em>Feb 2023 – Aug 2023</em><br>Algorithm Intern</span>
+
+- <span class="edu-logo edu-logo--intern" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="合合信息.png" alt="Shanghai Hehe Information Technology Co., Ltd." style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Shanghai Hehe Information Technology Co., Ltd.</strong>, <em>Jul 2022 – Sep 2023</em><br>Algorithm Intern</span>
  
 
 

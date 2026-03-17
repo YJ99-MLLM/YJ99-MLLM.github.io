@@ -141,6 +141,6 @@ Pattern Recognition
 
 IEEE Transactions on Intelligent Transportation Systems
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
+
 
 

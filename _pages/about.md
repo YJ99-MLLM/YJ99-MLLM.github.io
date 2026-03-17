@@ -102,7 +102,7 @@ Moyun Liu, Youping Chen, Jingming Xie*, **Yijie Zhu***, Yang Zhang, Lei Yao, Zhe
 </div>
 
 # 📄 Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='detlavla.png' alt="deltaVLA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='detlavla.png' alt="DeltaVLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DeltaVLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation](https://arxiv.org/pdf/2603.08361)

@@ -123,4 +123,24 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 </div>
 
 
+# 👨‍🎓 Academic Service
+
+ - **Reviewer**
+
+International Conference on Learning Representations (ICLR)
+
+Proceedings of the IEEE International Conference on Computer Vision (ICCV)
+
+International Conference on Machine Learning (ICML)
+
+Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
+
+ACM Multimedia (ACM MM)
+
+Pattern Recognition
+
+IEEE Transactions on Intelligent Transportation Systems
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=utH4ywUXvDZarENPjRcCDiGKVLCHBKGMoqhVBRvDpKw"></script>
+
 

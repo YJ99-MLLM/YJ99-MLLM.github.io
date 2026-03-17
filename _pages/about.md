@@ -66,7 +66,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='puma.png' alt="Puma" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='PUMA.png' alt="Puma" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Puma: Layer-pruned language model for efficient unified multimodal retrieval with modality-adaptive learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755029)

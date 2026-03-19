@@ -42,7 +42,7 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 
 Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 
-**ICLR (CCF Class A Conference)**
+**ICLR (CCF A Conference)**
 </div>
 </div>
 
@@ -53,7 +53,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 
 **Yijie Zhu**, Rui Shao, Ziyang Liu, Jie He, Jizhihui Liu, Jiuru Wang, Zitong Yu
 
-**AAAI Oral (CCF Class A Conference)**
+**AAAI Oral (CCF A Conference)**
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 
 **Yijie Zhu**, Yibo Lyu, Zitong Yu, Rui Shao, Kaiyang Zhou, Liqiang Nie
 
-**ACM MM (CCF Class A Conference)**
+**ACM MM (CCF A Conference)**
 </div>
 </div>
 
@@ -75,7 +75,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
   
 Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
 
-**ACM MM (CCF Class A Conference)**
+**ACM MM (CCF A Conference)**
 </div>
 </div>
 
@@ -86,7 +86,7 @@ Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
 
 Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
 
-**TITS (CCF Class B Journal)**
+**TITS (CCF B Journal)**
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 
 **Yijie Zhu**, Jingming Xie, Moyun Liu, Lei Yao, Youping Chen
 
-**IVC (CCF Class C Journal)**
+**IVC (CCF C Journal)**
 </div>
 </div>
 

@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly trained doctoral student at Harbin Institute of Technology, Shenzhen and Great Bay University, since September 2024. I am fortunate to be co-supervised by Prof. [Zitong Yu](https://zitong-yu.github.io/yzt/)
- and Prof. [Rui Shao](https://homepage.hit.edu.cn/shaorui). My research interests lie in Multimodal Large Language Models (MLLMs), Vision-Language-Action (VLA), and affective analysis.
+ and Prof. [Rui Shao](https://homepage.hit.edu.cn/shaorui). My research interests lie in Multimodal Large Language Models (MLLMs), Vision-Language-Action Models(VLA), and Affective Analysis.
  
 **Research Interests:** Multimodal Large Language Models (MLLMs), Vision-Language-Action (VLA).
 
@@ -28,7 +28,7 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by **ICLR** 2026
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI** 2026 as **Oral**
 - *2025.07*: &nbsp;🎉🎉 Two papers accepted by **ACM MM** 2025
-- *2024.09*: &nbsp;Started my Ph.D. at Harbin Institute of Technology, Shenzhen&&Great Bay University
+- *2024.09*: &nbsp;Started my Ph.D. at **Harbin Institute of Technology, Shenzhen&&Great Bay University**
 - *2024.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TITS**
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by **IVC**
 - *2023.03*: &nbsp;Started internship at **SenseTime** as an Algorithm Intern

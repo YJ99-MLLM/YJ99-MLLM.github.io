@@ -25,6 +25,7 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 **Paper Submissions:** Multiple papers submitted to top-tier conferences and journals including CVPR, TIP, ICML, AAAI, etc.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper accepted by **TIP** 2026
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by **ICLR** 2026
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI** 2026 as **Oral**
 - *2025.07*: &nbsp;🎉🎉 Two papers accepted by **ACM MM** 2025
@@ -34,6 +35,16 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 - *2023.03*: &nbsp;Started internship at **SenseTime** as an Algorithm Intern
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='UniEmo.png' alt="UniEmo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UniEmo: Unifying emotional understanding and generation with learnable expert queries](https://arxiv.org/abs/2507.23372)
+
+**Yijie Zhu**, Lingsen Zhang, Zitong Yu, Rui Shao, Tao Tan, Liqiang Nie
+
+**TIP (CCF A Journal)**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='ICLR 2026.png' alt="CoEmoGen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,15 +123,7 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='UniEmo.png' alt="UniEmo" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[UniEmo: Unifying emotional understanding and generation with learnable expert queries](https://arxiv.org/abs/2507.23372)
-
-**Yijie Zhu**, Lingsen Zhang, Zitong Yu, Rui Shao, Tao Tan, Liqiang Nie
-
-</div>
-</div>
 
 # 🎓 Educations
 - <span class="edu-logo" style="display:inline-block; width:48px; height:48px; margin-right:8px;"><img src="哈尔滨工业大学-logo-2048px中文版.png" alt="Harbin Institute of Technology, Shenzhen" style="width:100%; height:100%; object-fit:contain; vertical-align:middle;"></span><span class="edu-text"><strong>Harbin Institute of Technology, Shenzhen &amp; Great Bay University</strong>, Sep 2024 – Present<br>Ph.D. Student in Computer Science and Technology</span>

@@ -97,7 +97,7 @@ Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
 
 Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
 
-**TITS (CCF B Journal)**
+**IEEE Transactions on Intelligent Transportation Systems (CCF B Journal)**
 </div>
 </div>
 
@@ -108,7 +108,7 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 
 **Yijie Zhu**, Jingming Xie, Moyun Liu, Lei Yao, Youping Chen
 
-**IVC (CCF C Journal)**
+**Image and Vision Computing (CCF C Journal)**
 </div>
 </div>
 

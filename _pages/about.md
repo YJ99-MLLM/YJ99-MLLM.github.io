@@ -42,7 +42,7 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 
 **Yijie Zhu**, Lingsen Zhang, Zitong Yu, Rui Shao, Tao Tan, Liqiang Nie
 
-**TIP (CCF A Journal)**
+**IEEE Transactions on Image Processing (CCF A Journal)**
 </div>
 </div>
 

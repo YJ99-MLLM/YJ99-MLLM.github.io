@@ -25,27 +25,27 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 
 # 🔥 News
 
-- *2026.09*: &nbsp;🎉🎉 One **first-author paper** accepted at **NeurIPS 2026**.
-- *2026.07*: &nbsp;🎉🎉 One **co-first-author paper** accepted by **IEEE TAFFC**.
-- *2026.05*: &nbsp;🎉🎉 One **first-author paper** accepted by **IEEE TIP**.
-- *2026.01*: &nbsp;🎉🎉 One **co-authored paper** accepted at **ICLR 2026**.
-- *2025.11*: &nbsp;🎉🎉 One **first-author paper** accepted at **AAAI 2026** as an **Oral** presentation.
-- *2025.07*: &nbsp;🎉🎉 Two papers accepted at **ACM MM 2025**: one **first-author paper** and one **co-authored paper**.
-- *2024.09*: &nbsp;Started my Ph.D. at **Harbin Institute of Technology, Shenzhen & Great Bay University**
-- *2024.04*: &nbsp;🎉🎉 One **co-corresponding-author paper** accepted by **IEEE TITS**.
-- *2023.09*: &nbsp;🎉🎉 One **first-author paper** accepted by **IVC**.
-- *2023.03*: &nbsp;Started internship at **SenseTime** as an Algorithm Intern
+- *2026.09*: &nbsp;🎉 **ATI-VLA** accepted to **NeurIPS 2026**! *(first author)*
+- *2026.07*: &nbsp;🎉 **Uni-EmoAgent** accepted to **IEEE TAFFC**! *(co-first author)*
+- *2026.05*: &nbsp;🎉 **UniEmo** accepted to **IEEE TIP**! *(first author)*
+- *2026.01*: &nbsp;🎉 **CoEmoGen** accepted to **ICLR 2026**! *(co-author)*
+- *2025.11*: &nbsp;🎉 **H-GAR** accepted to **AAAI 2026** as an **Oral** presentation! *(first author)*
+- *2025.07*: &nbsp;🎉 Two papers accepted to **ACM MM 2025**: **EmoSym** *(first author)* and **Puma** *(co-author)*!
+- *2024.09*: &nbsp;Started my Ph.D. at **Harbin Institute of Technology, Shenzhen** and **Great Bay University**.
+- *2024.04*: &nbsp;🎉 **MENet** accepted to **IEEE TITS**! *(co-corresponding author)*
+- *2023.09*: &nbsp;🎉 **BF3D** accepted to **Image and Vision Computing**! *(first author)*
+- *2023.03*: &nbsp;Joined **SenseTime** as an Algorithm Intern.
 
 # 📝 Publications
 
-## First-Author and Co-First-Author Papers
+## First & Co-first Author Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='NeurIPs.png' alt="ATI-VLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection
 
-**Yijie Zhu**, Rui Shao, Jie He, Wei Li, Bo Zhao, Yelin Wang, Xiaochen Yuan, Tao Tan, Miao Zhang, Xiaojiang Peng, Zitong Yu
+<strong style="color: #c62828;">Yijie Zhu</strong>, Rui Shao, Jie He, Wei Li, Bo Zhao, Yelin Wang, Xiaochen Yuan, Tao Tan, Miao Zhang, Xiaojiang Peng, Zitong Yu
 
 **NeurIPS (CCF A Conference)**
 
@@ -57,7 +57,7 @@ ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actiona
 
 [Uni-EmoAgent: A Unified Multi-Agent Framework for Affective Understanding and Art-Oriented Emotional Image Generation](https://doi.org/10.1109/TAFFC.2026.3725184)
 
-Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wang, Zitong Yu, Fei Ma, Qi Tian
+Yelin Wang<sup>*</sup>, <strong style="color: #c62828;">Yijie Zhu</strong><sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wang, Zitong Yu, Fei Ma, Qi Tian
 
 **IEEE Transactions on Affective Computing (CCF B Journal)**
 
@@ -71,7 +71,7 @@ Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wa
 
 [UniEmo: Unifying emotional understanding and generation with learnable expert queries](https://arxiv.org/abs/2507.23372)
 
-**Yijie Zhu**, Lingsen Zhang, Zitong Yu, Rui Shao, Tao Tan, Liqiang Nie
+<strong style="color: #c62828;">Yijie Zhu</strong>, Lingsen Zhang, Zitong Yu, Rui Shao, Tao Tan, Liqiang Nie
 
 **IEEE Transactions on Image Processing (CCF A Journal)**
 </div>
@@ -82,7 +82,7 @@ Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wa
 
 [H-GAR: A Hierarchical Interaction Framework via Goal-Driven Observation-Action Refinement for Robotic Manipulation](https://arxiv.org/pdf/2511.17079)
 
-**Yijie Zhu**, Rui Shao, Ziyang Liu, Jie He, Jizhihui Liu, Jiuru Wang, Zitong Yu
+<strong style="color: #c62828;">Yijie Zhu</strong>, Rui Shao, Ziyang Liu, Jie He, Jizhihui Liu, Jiuru Wang, Zitong Yu
 
 **AAAI Oral (CCF A Conference)**
 </div>
@@ -93,7 +93,7 @@ Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wa
 
 [EmoSym: A Symbiotic Framework for Unified Emotional Understanding and Generation via Latent Reasoning](https://dl.acm.org/doi/abs/10.1145/3746027.3754549)
 
-**Yijie Zhu**, Yibo Lyu, Zitong Yu, Rui Shao, Kaiyang Zhou, Liqiang Nie
+<strong style="color: #c62828;">Yijie Zhu</strong>, Yibo Lyu, Zitong Yu, Rui Shao, Kaiyang Zhou, Liqiang Nie
 
 **ACM MM (CCF A Conference)**
 </div>
@@ -104,7 +104,7 @@ Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wa
 
 [BF3D: Bi-directional fusion 3D detector with semantic sampling and geometric mapping](https://www.sciencedirect.com/science/article/abs/pii/S0262885623002093)
 
-**Yijie Zhu**, Jingming Xie, Moyun Liu, Lei Yao, Youping Chen
+<strong style="color: #c62828;">Yijie Zhu</strong>, Jingming Xie, Moyun Liu, Lei Yao, Youping Chen
 
 **Image and Vision Computing (CCF C Journal)**
 </div>
@@ -115,7 +115,7 @@ Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wa
 
 [DeltaVLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation](https://arxiv.org/pdf/2603.08361)
 
-**Yijie Zhu**, Jie He, Rui Shao, Kaishen Yuan, Tao Tan, Xiaochen Yuan, Zitong Yu
+<strong style="color: #c62828;">Yijie Zhu</strong>, Jie He, Rui Shao, Kaishen Yuan, Tao Tan, Xiaochen Yuan, Zitong Yu
 
 </div>
 </div>
@@ -125,19 +125,19 @@ Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wa
 
 [Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models](https://arxiv.org/abs/2609.06578)
 
-**Yijie Zhu**, Zitong Yu, Wei Li, Hui Ma, Wen Li, Rui Shao, Liqiang Nie
+<strong style="color: #c62828;">Yijie Zhu</strong>, Zitong Yu, Wei Li, Hui Ma, Wen Li, Rui Shao, Liqiang Nie
 
 </div>
 </div>
 
-## Other Co-authored Papers
+## Collaborations
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='ICLR 2026.png' alt="CoEmoGen" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation](https://arxiv.org/pdf/2508.03535?)
 
-Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
+Kaishen Yuan, Yuting Zhang, Shang Gao, <strong style="color: #c62828;">Yijie Zhu</strong>, Wenshuo Chen, Yutao Yue
 
 **ICLR (CCF A Conference)**
 </div>
@@ -148,7 +148,7 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 
 [Puma: Layer-pruned language model for efficient unified multimodal retrieval with modality-adaptive learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755029)
   
-Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
+Yibo Lyu, Rui Shao, Gongwei Chen, <strong style="color: #c62828;">Yijie Zhu</strong>, Weili Guan, Liqiang Nie
 
 **ACM MM (CCF A Conference)**
 </div>
@@ -159,7 +159,9 @@ Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
 
 [MENet: Multi-modal mapping enhancement network for 3D object detection in autonomous driving](https://ieeexplore.ieee.org/abstract/document/10510171/)
 
-Moyun Liu, Youping Chen, Jingming Xie, **Yijie Zhu**, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
+Moyun Liu, Youping Chen, Jingming Xie, <strong style="color: #c62828;">Yijie Zhu</strong>, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
+
+<small>Co-corresponding author: <strong style="color: #c62828;">Yijie Zhu</strong></small>
 
 **IEEE Transactions on Intelligent Transportation Systems (CCF B Journal)**
 </div>

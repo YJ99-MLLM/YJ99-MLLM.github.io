@@ -24,18 +24,22 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 **Paper Submissions:** Multiple papers submitted to top-tier conferences and journals including CVPR, TIP, ICML, AAAI, etc.
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS** 2026
-- *2026.07*: &nbsp;🎉🎉 One paper accepted by **TAFFC**
-- *2026.05*: &nbsp;🎉🎉 One paper accepted by **TIP**
-- *2026.01*: &nbsp;🎉🎉 One paper accepted by **ICLR** 2026
-- *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI** 2026 as **Oral**
-- *2025.07*: &nbsp;🎉🎉 Two papers accepted by **ACM MM** 2025
-- *2024.09*: &nbsp;Started my Ph.D. at **Harbin Institute of Technology, Shenzhen&&Great Bay University**
-- *2024.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TITS**
-- *2023.09*: &nbsp;🎉🎉 One paper accepted by **IVC**
+
+- *2026.09*: &nbsp;🎉🎉 One **first-author paper** accepted at **NeurIPS 2026**.
+- *2026.07*: &nbsp;🎉🎉 One **co-first-author paper** accepted by **IEEE TAFFC**.
+- *2026.05*: &nbsp;🎉🎉 One **first-author paper** accepted by **IEEE TIP**.
+- *2026.01*: &nbsp;🎉🎉 One **co-authored paper** accepted at **ICLR 2026**.
+- *2025.11*: &nbsp;🎉🎉 One **first-author paper** accepted at **AAAI 2026** as an **Oral** presentation.
+- *2025.07*: &nbsp;🎉🎉 Two papers accepted at **ACM MM 2025**: one **first-author paper** and one **co-authored paper**.
+- *2024.09*: &nbsp;Started my Ph.D. at **Harbin Institute of Technology, Shenzhen & Great Bay University**
+- *2024.04*: &nbsp;🎉🎉 One **co-corresponding-author paper** accepted by **IEEE TITS**.
+- *2023.09*: &nbsp;🎉🎉 One **first-author paper** accepted by **IVC**.
 - *2023.03*: &nbsp;Started internship at **SenseTime** as an Algorithm Intern
 
 # 📝 Publications
+
+## First-Author and Co-First-Author Papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='NeurIPs.png' alt="ATI-VLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,17 +77,6 @@ Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='ICLR 2026.png' alt="CoEmoGen" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation](https://arxiv.org/pdf/2508.03535?)
-
-Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
-
-**ICLR (CCF A Conference)**
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026, Oral</div><img src='AAAI 2026.png' alt="H-GAR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,28 +99,6 @@ Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='PUMA.png' alt="Puma" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Puma: Layer-pruned language model for efficient unified multimodal retrieval with modality-adaptive learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755029)
-  
-Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
-
-**ACM MM (CCF A Conference)**
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='MENet.png' alt="MENet" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MENet: Multi-modal mapping enhancement network for 3D object detection in autonomous driving](https://ieeexplore.ieee.org/abstract/document/10510171/)
-
-Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
-
-**IEEE Transactions on Intelligent Transportation Systems (CCF B Journal)**
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2023</div><img src='BF3D.png' alt="BF3D" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -139,7 +110,6 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 </div>
 </div>
 
-# 📄 Preprints
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='detlavla.png' alt="DeltaVLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -159,6 +129,42 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 
 </div>
 </div>
+
+## Other Co-authored Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='ICLR 2026.png' alt="CoEmoGen" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoEmoGen: Towards Semantically-Coherent and Scalable Emotional Image Content Generation](https://arxiv.org/pdf/2508.03535?)
+
+Kaishen Yuan, Yuting Zhang, Shang Gao, **Yijie Zhu**, Wenshuo Chen, Yutao Yue
+
+**ICLR (CCF A Conference)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='PUMA.png' alt="Puma" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Puma: Layer-pruned language model for efficient unified multimodal retrieval with modality-adaptive learning](https://dl.acm.org/doi/pdf/10.1145/3746027.3755029)
+  
+Yibo Lyu, Rui Shao, Gongwei Chen, **Yijie Zhu**, Weili Guan, Liqiang Nie
+
+**ACM MM (CCF A Conference)**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='MENet.png' alt="MENet" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MENet: Multi-modal mapping enhancement network for 3D object detection in autonomous driving](https://ieeexplore.ieee.org/abstract/document/10510171/)
+
+Moyun Liu, Youping Chen, Jingming Xie, **Yijie Zhu**, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
+
+**IEEE Transactions on Intelligent Transportation Systems (CCF B Journal)**
+</div>
+</div>
+
 
 
 

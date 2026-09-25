@@ -24,7 +24,9 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 **Paper Submissions:** Multiple papers submitted to top-tier conferences and journals including CVPR, TIP, ICML, AAAI, etc.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper accepted by **TIP** 2026
+- *2026.09*: &nbsp;🎉🎉 One paper accepted by **NeurIPS** 2026
+- *2026.07*: &nbsp;🎉🎉 One paper accepted by **TAFFC**
+- *2026.05*: &nbsp;🎉🎉 One paper accepted by **TIP**
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by **ICLR** 2026
 - *2025.11*: &nbsp;🎉🎉 One paper accepted by **AAAI** 2026 as **Oral**
 - *2025.07*: &nbsp;🎉🎉 Two papers accepted by **ACM MM** 2025

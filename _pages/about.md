@@ -159,11 +159,12 @@ Yibo Lyu, Rui Shao, Gongwei Chen, <strong style="color: #c62828;">Yijie Zhu</str
 
 [MENet: Multi-modal mapping enhancement network for 3D object detection in autonomous driving](https://ieeexplore.ieee.org/abstract/document/10510171/)
 
-Moyun Liu, Youping Chen, Jingming Xie, <strong style="color: #c62828;">Yijie Zhu</strong>, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
+Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, <strong style="color: #c62828;">Yijie Zhu</strong><sup>†</sup>, Yang Zhang, Lei Yao, Zhenshan Bing, Genghang Zhuang, Kai Huang, Joey Tianyi Zhou
 
-<small>Co-corresponding author: <strong style="color: #c62828;">Yijie Zhu</strong></small>
+<small><sup>†</sup> Co-corresponding authors.</small>
 
 **IEEE Transactions on Intelligent Transportation Systems (CCF B Journal)**
+
 </div>
 </div>
 

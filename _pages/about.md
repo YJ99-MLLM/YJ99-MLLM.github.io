@@ -36,6 +36,20 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 - *2023.03*: &nbsp;Started internship at **SenseTime** as an Algorithm Intern
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2026</div><img src='mi-intro-taffc.png' alt="Uni-EmoAgent" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uni-EmoAgent: A Unified Multi-Agent Framework for Affective Understanding and Art-Oriented Emotional Image Generation](https://doi.org/10.1109/TAFFC.2026.3725184)
+
+Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wang, Zitong Yu<sup>†</sup>, Fei Ma<sup>†</sup>, Qi Tian
+
+**IEEE Transactions on Affective Computing (CCF B Journal)**
+
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding authors.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='UniEmo.png' alt="UniEmo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

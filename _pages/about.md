@@ -36,6 +36,18 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 - *2023.03*: &nbsp;Started internship at **SenseTime** as an Algorithm Intern
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='NeurIPs.png' alt="ATI-VLA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection
+
+**Yijie Zhu**, Rui Shao, Jie He, Wei Li, Bo Zhao, Yelin Wang, Xiaochen Yuan, Tao Tan, Miao Zhang, Xiaojiang Peng, Zitong Yu
+
+**Conference on Neural Information Processing Systems (CCF A Conference)**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAFFC 2026</div><img src='mi-intro-taffc.png' alt="Uni-EmoAgent" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

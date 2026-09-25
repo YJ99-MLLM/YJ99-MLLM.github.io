@@ -150,6 +150,16 @@ Moyun Liu, Youping Chen, Jingming Xie<sup>†</sup>, **Yijie Zhu**<sup>†</sup>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='prowamv3.png' alt="Learning to Use Imagination" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models](https://arxiv.org/abs/2609.06578)
+
+**Yijie Zhu**, Zitong Yu, Wei Li, Hui Ma, Wen Li, Rui Shao, Liqiang Nie
+
+</div>
+</div>
+
 
 
 # 🎓 Educations

@@ -43,7 +43,7 @@ ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actiona
 
 **Yijie Zhu**, Rui Shao, Jie He, Wei Li, Bo Zhao, Yelin Wang, Xiaochen Yuan, Tao Tan, Miao Zhang, Xiaojiang Peng, Zitong Yu
 
-**Conference on Neural Information Processing Systems (CCF A Conference)**
+**NeurIPS (CCF A Conference)**
 
 </div>
 </div>

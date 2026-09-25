@@ -110,7 +110,7 @@ Yelin Wang<sup>*</sup>, <strong style="color: #c62828;">Yijie Zhu</strong><sup>*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='detlavla.png' alt="DeltaVLA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='detlavla.png' alt="DeltaVLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DeltaVLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation](https://arxiv.org/pdf/2603.08361)
@@ -120,7 +120,7 @@ Yelin Wang<sup>*</sup>, <strong style="color: #c62828;">Yijie Zhu</strong><sup>*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='prowamv3.png' alt="Learning to Use Imagination" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='prowamv3.png' alt="Learning to Use Imagination" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to Use Imagination: Progress-Conditioned Future Utilization for World Action Models](https://arxiv.org/abs/2609.06578)

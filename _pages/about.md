@@ -41,11 +41,11 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 
 [Uni-EmoAgent: A Unified Multi-Agent Framework for Affective Understanding and Art-Oriented Emotional Image Generation](https://doi.org/10.1109/TAFFC.2026.3725184)
 
-Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wang, Zitong Yu<sup>†</sup>, Fei Ma<sup>†</sup>, Qi Tian
+Yelin Wang<sup>*</sup>, **Yijie Zhu**<sup>*</sup>, Zijia Song, Hui Ma, Zeheng Wang, Zitong Yu, Fei Ma, Qi Tian
 
 **IEEE Transactions on Affective Computing (CCF B Journal)**
 
-<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding authors.
+<sup>*</sup> Equal contribution.
 
 </div>
 </div>

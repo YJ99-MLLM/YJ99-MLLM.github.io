@@ -43,7 +43,8 @@ Welcome to my academic homepage! I am currently pursuing my Ph.D. as a jointly t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='NeurIPs.png' alt="ATI-VLA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection
+[ATI-VLA: Action-Centric Predictive Vision–Language–Action Models via Actionable Alignment Then Adaptive Injection](http://arxiv.org/abs/2610.01741)
+
 
 <strong style="color: #c62828;">Yijie Zhu</strong>, Rui Shao, Jie He, Wei Li, Bo Zhao, Yelin Wang, Xiaochen Yuan, Tao Tan, Miao Zhang, Xiaojiang Peng, Zitong Yu
 
